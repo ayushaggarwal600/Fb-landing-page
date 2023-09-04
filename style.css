@@ -1,0 +1,101 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.header
+{
+    height: 130px;
+    width: 1519px;
+    background-color: rgb(37, 37, 197);
+}
+.header h1
+{
+    color: white;
+    padding: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+    font-size: 44px;
+}
+.header label
+{
+    color: white;
+    float: right;
+    margin-right: 205px;
+    margin-top: 18px;
+}
+.header input
+{
+    color: white;
+    float: right;
+    padding: 5px;
+    margin-right: 30px;
+    margin-top: 5px;
+    width: 280px;
+}
+.header a
+{
+    color: white;
+    float: right;
+    margin-right: 340px;
+    text-decoration: none;
+}
+.main
+{
+    background-color: #dfdfdf;
+    width: 1519px;
+    height: 550px;
+    float: left;
+}
+.create input
+{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    width: 200px;
+}
+.clear
+{
+    clear: both;
+}
+.create
+{
+    float: right;
+    margin-right: 140px;
+    font-size: 18px;
+}
+a
+{
+    text-decoration: none;
+}
+.footer a
+{
+    margin: 5px 30px 10px 10px;
+    display: inline-block;
+}
+.footer
+{
+    margin-left: 20px;
+}
+.footer1
+{
+    border-top: 1px solid black;
+    width: 1300px;
+    margin-left: 10px;
+}
+.footer1 a
+{
+    margin: 5px 25px 10px 0;
+}
+.out
+{
+    height: 925px;
+    width: 1519px;
+}
